@@ -1,5 +1,7 @@
 # RnR-dataset
 
+(아직 수정 중입니다. Ver.07.12.)
+
 
 1. continuous
  - Compustat
