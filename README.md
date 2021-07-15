@@ -1,29 +1,29 @@
 # RnR-dataset
 
-(아직 수정 중입니다. Ver.07.12.)
+(아직 수정 중입니다. Ver.07.15.)
 
 
 1. continuous
- - Compustat
+ - Compustat: HDDT
  - Glass
- - Oil
- - Ism
+ - Oil: HDDT
+ - Ism: HDDT
  - Wine
  - Yeast
 
 The Oil dataset was provided by Robert Holte and is used in their paper (Kubat et al., 1998). This dataset has 41 oil slick samples and 896 non-oil slick samples.
 
 2. categorical
- - Boundary
- - cam 
- - car
+ - Boundary: HDDT
+ - cam: HDDT
+ - car good
  - led
- - phosS
+ - phosS: HDDT
 
 3. Mixed
  - Abalone
  - Flare-F
- - Hypo
+ - Hypo: HDDT
  - Sick
  - Vowel0
 
