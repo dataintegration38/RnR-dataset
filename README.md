@@ -11,6 +11,8 @@
  - Wine
  - Yeast
 
+The Oil dataset was provided by Robert Holte and is used in their paper (Kubat et al., 1998). This dataset has 41 oil slick samples and 896 non-oil slick samples.
+
 2. categorical
  - Boundary
  - cam 
